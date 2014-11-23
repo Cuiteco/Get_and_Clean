@@ -13,15 +13,13 @@ run_analysis.R      (R Program that takes data collected from the accelerometers
 Before running the R program you should unzip next file in your working directory:<br>
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip<br>
 This file will create a directory file "/UCI HAR Dataset" and there will be the next files:<br> 
-<table>
-<tr>FILES<tr>
-<td>features.txt</td><td>(where the names of column will be taken)</td><br>  
-<td>activity_labels.txt</td><td>(where the activity names will be taken)</td><br>  
-<td>test/subject.txt</td><td>(with the number of subject that take the test)</td> 
-<td>test/X_test.txt</td><td>(with the information that was collected or generated from accelerometers)</td>
-<td>test/y_test.txt</td><td>(with the number of activity that the subject was doing in the test)</td> 
-<td>train/subject.txt</td><td>(with the number of subject that take the train)</td>
-<td>train/X_train.txt</td><td>(with the information that was collected or generated from accelerometers)</td>
-<td>train/y_train.txt</td><td>(with the number of activity that the subject was doing in the train)</td> 
-<table>
+
+<li>features.txt. (where the names of column will be taken)</li><br>  
+<li>activity_labels.txt. (where the activity names will be taken)</li><br>  
+<li>test/subject.txt. (with the number of subject that take the test)</li><br>
+<li>test/X_test.txt. (with the information that was collected or generated from accelerometers)</li><br>
+<li>test/y_test.txt.(with the number of activity that the subject was doing in the test)</li><br>
+<li>train/subject.txt. (with the number of subject that take the train)</li><br>
+<li>train/X_train.txt. (with the information that was collected or generated from accelerometers)</li><br>
+<li>train/y_train.txt. (with the number of activity that the subject was doing in the train)</li><br>
 
