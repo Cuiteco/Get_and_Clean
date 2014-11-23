@@ -2,8 +2,13 @@
 #####This file contains the explanation of every variables of the file "  ", that is given by run_analysis function.
 #####In general all the data is a mean of certanly fields of the original project "Human Activity Recognition Using Smartphones Dataset"
 #####Was selected only the fields o features that the names was contained "mean" or "std". Was excludes "Mean" because that was not properly a mean, that was the filter asked.
-####DESCRIPTION GENERAL OF NAMES
-#####When the name beggining with "t" thats mean time, when begining with "f" thats mean "features"
+#####DESCRIPTION GENERAL OF NAMES
+#####When the name beggining with "t" thats means time, when begining with "f" thats means frequency domain signals, that was applied to some of these signals.<br>
+#####there was distitincted the type of device with "Acc":Accelerometer and  "Gyro": Gyroscope
+#####The acceleration signal was separated into "Body" and "Gravity" acceleration.
+#####"Jerks" means the Jerk signal obteined  and "Mag" will be the magnitud calculated using the Euclidean norm.
+#####And finaly X, Y y Z will be the cordenates in the moment the experiment was done.
+
 #####NUMBERS, NAMES AND DESCRIPTION OF COLUMNS<br>  
 <ol>
 <li>Activity.<br>
@@ -11,7 +16,7 @@ Will be contained the type of activity that subject is doing when the test was d
 Posible values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING</li> 
 <li>Subject.<br>
 Number of Subject that paticiped of project<br>
-Posible values:1 to 30</li> 
+Posible values: 1 to 30</li> 
 <li>tBodyAcc_mean_X.</li> 
 <li>tBodyAcc_mean_Y.</li> 
 <li>tBodyAcc_mean_Z.</li>
