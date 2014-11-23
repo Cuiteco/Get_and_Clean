@@ -10,19 +10,18 @@ run_analysis.R      (R Program that takes data collected from the accelerometers
 
 ####IMPORTANT
 
-Before running the R program you should unzip the file in your working directory:<br /> 
+Before running the R program you should unzip next file in your working directory:<br /> 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip<br /> 
 This file will create a directory file "/UCI HAR Dataset" and there will be the next files:<br /> 
-
-features.txt          (Where the names of column will be taken)<br /> 
-activity_labels.txt   (Where the activity names will be taken)<br /> 
-test/subject.txt      (with the number of subject that take the test)<br /> 
-test/X_test.txt       (with the information that was collected or generated from accelerometers)<br /> 
-test/y_test.txt       (with the number of activity that the subject was doing in the test)<br /> 
-train/subject.txt     (with the number of subject that take the train)<br /> 
-train/X_train.txt     (with the information that was collected or generated from accelerometers)<br /> 
-train/y_train.txt     (with the number of activity that the subject was doing in the train)<br /> 
-
-
-
+<table>
+      <tr>Files:<tr>
+<td>features.txt          (Where the names of column will be taken)</td><br />
+<td>activity_labels.txt</nd><ds>   (Where the activity names will be taken)</td><br />
+</ds>test/subject.txt      (with the number of subject that take the test)</td><br /> 
+</ds>test/X_test.txt       (with the information that was collected or generated from accelerometers)</td><br /> 
+</ds>test/y_test.txt       (with the number of activity that the subject was doing in the test)</td><br /> 
+</ds>train/subject.txt     (with the number of subject that take the train)</td><br /> 
+</ds>train/X_train.txt     (with the information that was collected or generated from accelerometers)</td><br /> 
+</ds>train/y_train.txt     (with the number of activity that the subject was doing in the train)</td><br /> 
+<table>
 
