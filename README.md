@@ -22,4 +22,13 @@ This file will create a directory file "/UCI HAR Dataset" and there will be the 
 <li>train/subject.txt. (with the number of subject that take the train)</li>
 <li>train/X_train.txt. (with the information that was collected or generated from accelerometers)</li>
 <li>train/y_train.txt. (with the number of activity that the subject was doing in the train)</li>
-  </ol>
+</ol>
+####DESCRIPTION OF FUNTION run_analysis()
+<ol>
+<li>Merges the training and the test sets to create one data set. With cbind function I will agregate activities and subjects for identificate the observation when I will merge the files.</li>
+<li>Extracts only the measurements on the mean and standard deviation for each measurement. With de grep function I could find de number of variable that contains the word “mean” or “std"</li>
+<li>Uses descriptive activity names to name the activities in the data set</li>
+<li>Appropriately labels the data set with descriptive variable names.</li>
+<li>From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.</li>
+</ol>
+
