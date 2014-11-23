@@ -24,7 +24,7 @@ This file will create a directory file "/UCI HAR Dataset" and there will be the 
 <li>train/y_train.txt. (with the number of activity that the subject was doing in the train)</li>
 </ol>
 ####DESCRIPTION OF FUNTION run_analysis()
-####Please pay atention of the step 6 is very important
+####Please pay atention in the step 6 is very important
 <ol>
 <li>Merges the training and the test sets to create one data set. With cbind functionI will agregate activities and subjects for identificate the observation and posteriory I will merge the files with rbind(). When I read the "X_var.txt" files I especified that the col.names was in the second column of the file "features.txt" previusly read. </li>
 <li>Extracts only the measurements on the mean and standard deviation for each measurement. With only_select_col() function I selectect the names of columns that was contained “mean” or “std" string, but I exclude the variables with angle because this is not a properly mean.</li>
