@@ -4,7 +4,7 @@
 #####Was selected only the fields o features that the names was contained "mean" or "std". Was excludes "Mean" because that was not properly a mean, that was the filter asked.
 ####DESCRIPTION GENERAL OF NAMES
 #####When the name beggining with "t" thats mean time, when begining with "f" thats mean "features"
-######Number,names and description of columns<br>  
+#####NUMBERS, NAMES AND DESCRIPTION OF COLUMNS<br>  
 <ol>
 <li>Activity.<br>
 Will be contained the type of activity that subject is doing when the test was done.<br>
