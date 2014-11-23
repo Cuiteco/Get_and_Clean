@@ -6,81 +6,81 @@ Numero y Nombre del Campo  <br>
 <li>Subject </li> 
 <li>tBodyAcc_mean_X  </li> 
 <li>tBodyAcc_mean_Y </li> 
-<li>05	tBodyAcc_mean_Z</li> 
-<li>06	tGravityAcc_mean_X </li> 
-<li>07	tGravityAcc_mean_Y</li> 
-<li>08	tGravityAcc_mean_Z</li> 
-<li>09	tBodyAccJerk_mean_X</li> 
-<li>10	tBodyAccJerk_mean_Y</li> 
-<li>11	tBodyAccJerk_mean_Z</li> 
-<li>12	tBodyGyro_mean_X</li> 
-<li>13	tBodyGyro_mean_Y</li> 
-<li>14	tBodyGyro_mean_Z</li> 
-<li>15	tBodyGyroJerk_mean_X</li> 
-<li>16	tBodyGyroJerk_mean_Y</li> 
-<li>17	tBodyGyroJerk_mean_Z</li> 
-<li>18	tBodyAccMag_mean</li> 
-<li>19	tGravityAccMag_mean</li> 
-<li>20	tBodyAccJerkMag_mean</li> 
-<li>21	tBodyGyroMag_mean</li> 
-<li>22	tBodyGyroJerkMag_mean</li> 
-<li>23	fBodyAcc_mean_X</li> 
-<li>24	fBodyAcc_mean_Y</li> 
-<li>25	fBodyAcc_mean_Z</li> 
-<li>26	fBodyAcc_meanFreq_X</li> 
-<li>27	fBodyAcc_meanFreq_Y</li> 
-<li>28	fBodyAcc_meanFreq_Z</li> 
-<li>29	fBodyAccJerk_mean_X</li> 
-<li>30	fBodyAccJerk_mean_Y</li> 
-<li>31	fBodyAccJerk_mean_Z</li> 
-<li>32	fBodyAccJerk_meanFreq_X</li> 
-<li>33	fBodyAccJerk_meanFreq_Y</li> 
-<li>34	fBodyAccJerk_meanFreq_Z</li> 
-<li>35	fBodyGyro_mean_X</li> 
-<li>36	fBodyGyro_mean_Y</li> 
-<li>37	fBodyGyro_mean_Z</li> 
-<li>38	fBodyGyro_meanFreq_X</li> 
-<li>39	fBodyGyro_meanFreq_Y</li> 
-<li>40	fBodyGyro_meanFreq_Z</li> 
-<li>41	fBodyAccMag_mean</li> 
-<li>42	fBodyAccMag_meanFreq</li> 
-<li>43	fBodyBodyAccJerkMag_mean</li> 
-<li>44	fBodyBodyAccJerkMag_meanFreq</li> 
-<li>45	fBodyBodyGyroMag_mean</li> 
-<li>46	fBodyBodyGyroMag_meanFreq</li> 
-<li>47	fBodyBodyGyroJerkMag_mean</li> 
-<li>48	fBodyBodyGyroJerkMag_meanFreq</li> 
-<li>49	tBodyAcc_std_X</li> 
-<li>50	tBodyAcc_std_Y</li> 
-<li>51	tBodyAcc_std_Z</li> 
-<li>52	tGravityAcc_std_X</li> 
-<li>53	tGravityAcc_std_Y</li> 
-<li>54	tGravityAcc_std_Z</li> 
-<li>55	tBodyAccJerk_std_X</li> 
-<li>56	tBodyAccJerk_std_Y</li> 
-<li>57	tBodyAccJerk_std_Z</li> 
-<li>58	tBodyGyro_std_X</li> 
-<li>59	tBodyGyro_std_Y</li> 
-<li>60	tBodyGyro_std_Z</li> 
-<li>61	tBodyGyroJerk_std_X</li> 
-<li>62	tBodyGyroJerk_std_Y</li> 
-<li>63	tBodyGyroJerk_std_Z</li> 
-<li>64	tBodyAccMag_std</li> 
-<li>65	tGravityAccMag_std</li> 
-<li>66	tBodyAccJerkMag_std</li> 
-<li>67	tBodyGyroMag_std</li> 
-<li>68	tBodyGyroJerkMag_std</li> 
-<li>69	fBodyAcc_std_X</li> 
-<li>70	fBodyAcc_std_Y</li> 
-<li>71	fBodyAcc_std_Z</li> 
-<li>72	fBodyAccJerk_std_X</li> 
-<li>73	fBodyAccJerk_std_Y</li> 
-<li>74	fBodyAccJerk_std_Z</li> 
-<li>75	fBodyGyro_std_X</li> 
-<li>76	fBodyGyro_std_Y</li> 
-<li>77	fBodyGyro_std_Z</li> 
-<li>78	fBodyAccMag_std</li> 
-<li>79	fBodyBodyAccJerkMag_std</li> 
-<li>	fBodyBodyGyroMag_std</li> 
-<li>81	fBodyBodyGyroJerkMag_std</li> 
+<li>tBodyAcc_mean_Z</li> 
+<li>tGravityAcc_mean_X </li> 
+<li>tGravityAcc_mean_Y</li> 
+<li>tGravityAcc_mean_Z</li> 
+<li>tBodyAccJerk_mean_X</li> 
+<li>tBodyAccJerk_mean_Y</li> 
+<li>tBodyAccJerk_mean_Z</li> 
+<li>tBodyGyro_mean_X</li> 
+<li>tBodyGyro_mean_Y</li> 
+<li>tBodyGyro_mean_Z</li> 
+<li>tBodyGyroJerk_mean_X</li> 
+<li>tBodyGyroJerk_mean_Y</li> 
+<li>tBodyGyroJerk_mean_Z</li> 
+<li>tBodyAccMag_mean</li> 
+<li>tGravityAccMag_mean</li> 
+<li>tBodyAccJerkMag_mean</li> 
+<li>tBodyGyroMag_mean</li> 
+<li>tBodyGyroJerkMag_mean</li> 
+<li>fBodyAcc_mean_X</li> 
+<li>fBodyAcc_mean_Y</li> 
+<li>fBodyAcc_mean_Z</li> 
+<li>fBodyAcc_meanFreq_X</li> 
+<li>fBodyAcc_meanFreq_Y</li> 
+<li>fBodyAcc_meanFreq_Z</li> 
+<li>fBodyAccJerk_mean_X</li> 
+<li>fBodyAccJerk_mean_Y</li> 
+<li>fBodyAccJerk_mean_Z</li> 
+<li>fBodyAccJerk_meanFreq_X</li> 
+<li>fBodyAccJerk_meanFreq_Y</li> 
+<li>fBodyAccJerk_meanFreq_Z</li> 
+<li>fBodyGyro_mean_X</li> 
+<li>fBodyGyro_mean_Y</li> 
+<li>fBodyGyro_mean_Z</li> 
+<li>fBodyGyro_meanFreq_X</li> 
+<li>fBodyGyro_meanFreq_Y</li> 
+<li>fBodyGyro_meanFreq_Z</li> 
+<li>fBodyAccMag_mean</li> 
+<li>fBodyAccMag_meanFreq</li> 
+<li>fBodyBodyAccJerkMag_mean</li> 
+<li>fBodyBodyAccJerkMag_meanFreq</li> 
+<li>fBodyBodyGyroMag_mean</li> 
+<li>fBodyBodyGyroMag_meanFreq</li> 
+<li>fBodyBodyGyroJerkMag_mean</li> 
+<li>fBodyBodyGyroJerkMag_meanFreq</li> 
+<li>tBodyAcc_std_X</li> 
+<li>tBodyAcc_std_Y</li> 
+<li>tBodyAcc_std_Z</li> 
+<li>tGravityAcc_std_X</li> 
+<li>tGravityAcc_std_Y</li> 
+<li>tGravityAcc_std_Z</li> 
+<li>tBodyAccJerk_std_X</li> 
+<li>tBodyAccJerk_std_Y</li> 
+<li>tBodyAccJerk_std_Z</li> 
+<li>tBodyGyro_std_X</li> 
+<li>tBodyGyro_std_Y</li> 
+<li>tBodyGyro_std_Z</li> 
+<li>tBodyGyroJerk_std_X</li> 
+<li>tBodyGyroJerk_std_Y</li> 
+<li>tBodyGyroJerk_std_Z</li> 
+<li>tBodyAccMag_std</li> 
+<li>tGravityAccMag_std</li> 
+<li>tBodyAccJerkMag_std</li> 
+<li>tBodyGyroMag_std</li> 
+<li>tBodyGyroJerkMag_std</li> 
+<li>fBodyAcc_std_X</li> 
+<li>fBodyAcc_std_Y</li> 
+<li>fBodyAcc_std_Z</li> 
+<li>fBodyAccJerk_std_X</li> 
+<li>fBodyAccJerk_std_Y</li> 
+<li>fBodyAccJerk_std_Z</li> 
+<li>fBodyGyro_std_X</li> 
+<li>fBodyGyro_std_Y</li> 
+<li>fBodyGyro_std_Z</li> 
+<li>fBodyAccMag_std</li> 
+<li>fBodyBodyAccJerkMag_std</li> 
+<li>fBodyBodyGyroMag_std</li> 
+<li>fBodyBodyGyroJerkMag_std</li> 
 </ol>
