@@ -17,32 +17,58 @@ Posible values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING
 <li>Subject.<br>
 Number of Subject that paticiped of project<br>
 Posible values: 1 to 30</li> 
-<li>tBodyAcc_mean_X.</li> 
-<li>tBodyAcc_mean_Y.</li> 
-<li>tBodyAcc_mean_Z.</li>
-<li>tGravityAcc_mean_X </li> 
-<li>tGravityAcc_mean_Y</li> 
-<li>tGravityAcc_mean_Z</li> 
-<li>tBodyAccJerk_mean_X</li> 
-<li>tBodyAccJerk_mean_Y</li> 
-<li>tBodyAccJerk_mean_Z</li> 
-<li>tBodyGyro_mean_X</li> 
-<li>tBodyGyro_mean_Y</li> 
-<li>tBodyGyro_mean_Z</li> 
-<li>tBodyGyroJerk_mean_X</li> 
-<li>tBodyGyroJerk_mean_Y</li> 
-<li>tBodyGyroJerk_mean_Z</li> 
-<li>tBodyAccMag_mean</li> 
-<li>tGravityAccMag_mean</li> 
-<li>tBodyAccJerkMag_mean</li> 
-<li>tBodyGyroMag_mean</li> 
-<li>tBodyGyroJerkMag_mean</li> 
-<li>fBodyAcc_mean_X</li> 
-<li>fBodyAcc_mean_Y</li> 
-<li>fBodyAcc_mean_Z</li> 
-<li>fBodyAcc_meanFreq_X</li> 
-<li>fBodyAcc_meanFreq_Y</li> 
-<li>fBodyAcc_meanFreq_Z</li> 
+<li>tBodyAcc_mean_X.<br>
+Mean of Body Acceleration time for X axis.</li> 
+<li>tBodyAcc_mean_Y.<br>
+Mean of Body Acceleration time for Y axis.</li> 
+<li>tBodyAcc_mean_Z.<br>
+Mean of Body Acceleration time for Z axis.</li>
+<li>tGravityAcc_mean_X.<br>
+Mean of Gravity Acceleration time for X axis.</li>
+<li>tGravityAcc_mean_Y.<br>
+Mean of Gravity Acceleration time for Y axis.</li> 
+<li>tGravityAcc_mean_Z.<br>
+Mean of Gravity Acceleration time for Z axis.</li> 
+<li>tBodyAccJerk_mean_X.<br>
+Mean of Jerk Signal time for Body Acceleration for X axis.</li> 
+<li>tBodyAccJerk_mean_Y.<br>
+Mean of Jerk Signal time for Body Acceleration for Y axis.</li> 
+<li>tBodyAccJerk_mean_Z.<br>
+Mean of Jerk Signal time for Body Acceleration for Z axis.</li> 
+<li>tBodyGyro_mean_X.<br>
+Average of Body position time for X axis.</li> 
+<li>tBodyGyro_mean_Y.<br>
+Average of Body position time for Y axis.</li> 
+<li>tBodyGyro_mean_Z.<br>
+Average of Body position time for Z axis.</li> 
+<li>tBodyGyroJerk_mean_X.<br>
+Average of Jerk Signal time for Body position for X axis.</li> 
+<li>tBodyGyroJerk_mean_Y.<br>
+Average of Jerk Signal time for Body position for Y axis.</li> 
+<li>tBodyGyroJerk_mean_Z.<br>
+Average of Jerk Signal time for Body position for Z axis.</li> 
+<li>tBodyAccMag_mean.<br>
+Average of magnitude time for Body acceleration.</li> 
+<li>tGravityAccMag_mean.<br>
+Average of magnitude time for Gravity acceleration.</li> 
+<li>tBodyAccJerkMag_mean.<br>
+Average of Jerk signal magnitude time for Body acceleration.</li> 
+<li>tBodyGyroMag_mean.<br>
+Average of magnitude time for Body position.</li> 
+<li>tBodyGyroJerkMag_mean.<br>
+Average of Jerk signal magnitude time for Body position.</li> 
+<li>fBodyAcc_mean_X<br>
+Average of frequency domain signal for Body acceleration X axis</li> 
+<li>fBodyAcc_mean_Y<br>
+Average of frequency domain signal for Body acceleration Y axis</li> 
+<li>fBodyAcc_mean_Z<br>
+Average of frequency domain signal for Body acceleration Z axis</li> 
+<li>fBodyAcc_meanFreq_X<br>
+Weighted average of the frequency components to obtain a mean frequency for Body acceleration X axis</li> 
+<li>fBodyAcc_meanFreq_Y<br>
+Weighted average of the frequency components to obtain a mean frequency for Body acceleration Y axis</li> 
+<li>fBodyAcc_meanFreq_Z<br>
+Weighted average of the frequency components to obtain a mean frequency for Body acceleration Z axis</li> 
 <li>fBodyAccJerk_mean_X</li> 
 <li>fBodyAccJerk_mean_Y</li> 
 <li>fBodyAccJerk_mean_Z</li> 
