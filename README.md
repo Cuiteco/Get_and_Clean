@@ -19,9 +19,9 @@ activity_labels.txt   (Where the activity names will be taken)
 test/subject.txt      (with the number of subject that take the test)
 test/X_test.txt       (with the information that was collected or generated from accelerometers)
 test/y_test.txt       (with the number of activity that the subject was doing in the test)
-train/subject.txt      (with the number of subject that take the train)
-train/X_train.txt       (with the information that was collected or generated from accelerometers)
-train/y_train.txt       (with the number of activity that the subject was doing in the train)
+train/subject.txt     (with the number of subject that take the train)
+train/X_train.txt     (with the information that was collected or generated from accelerometers)
+train/y_train.txt     (with the number of activity that the subject was doing in the train)
 
 
 
