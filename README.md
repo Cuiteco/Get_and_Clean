@@ -16,12 +16,12 @@ This file will create a directory file "/UCI HAR Dataset" and there will be the 
 <table>
       <tr>Files<tr>
 <td>features.txt          (Where the names of column will be taken)</td><br />
-<td>activity_labels.txt</nd><ds>   (Where the activity names will be taken)</td><br />
-</td>test/subject.txt      (with the number of subject that take the test)</td><br /> 
-</td>test/X_test.txt       (with the information that was collected or generated from accelerometers)</td><br /> 
-</td>test/y_test.txt       (with the number of activity that the subject was doing in the test)</td><br /> 
-</td>train/subject.txt     (with the number of subject that take the train)</td><br /> 
-</td>train/X_train.txt     (with the information that was collected or generated from accelerometers)</td><br /> 
-</td>train/y_train.txt     (with the number of activity that the subject was doing in the train)</td><br /> 
+<td>activity_labels.txt   (Where the activity names will be taken)</td><br />
+<td>test/subject.txt      (with the number of subject that take the test)</td><br /> 
+<td>test/X_test.txt       (with the information that was collected or generated from accelerometers)</td><br /> 
+<td>test/y_test.txt       (with the number of activity that the subject was doing in the test)</td><br /> 
+<td>train/subject.txt     (with the number of subject that take the train)</td><br /> 
+<td>train/X_train.txt     (with the information that was collected or generated from accelerometers)</td><br /> 
+<td>train/y_train.txt     (with the number of activity that the subject was doing in the train)</td><br /> 
 <table>
 
