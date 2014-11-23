@@ -24,12 +24,13 @@ This file will create a directory file "/UCI HAR Dataset" and there will be the 
 <li>train/y_train.txt. (with the number of activity that the subject was doing in the train)</li>
 </ol>
 ####DESCRIPTION OF FUNTION run_analysis()
+####Please pay atention of the step 6 is very important
 <ol>
 <li>Merges the training and the test sets to create one data set. With cbind functionI will agregate activities and subjects for identificate the observation and posteriory I will merge the files with rbind(). When I read the "X_var.txt" files I especified that the col.names was in the second column of the file "features.txt" previusly read. </li>
 <li>Extracts only the measurements on the mean and standard deviation for each measurement. With only_select_col() function I selectect the names of columns that was contained “mean” or “std" string, but I exclude the variables with angle because this is not a properly mean.</li>
 <li>Uses descriptive activity names to name the activities in the data set. I replace the number of activity for the label activity in "activity_labels.txt", using the mutate function.</li>
 <li>Appropriately labels the data set with descriptive variable names. I fixed the column names with sub() function because the string "(",")","-" was transformed in "."</li>
 <li>From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. I used dplyr function group_by() and summarise_each() to obtain the final tidy_data</li>
-##<li>Finaly the function will return the data.frame with averages solicited in the previusly step and will create the table "get&clean.txt" with the parameters row.name=FALSE. </li>
+<li>Finaly the function will return the data.frame with averages solicited in the previusly step and will create the table "get&clean.txt" with the parameters row.name=FALSE. </li>
 </ol>
 
